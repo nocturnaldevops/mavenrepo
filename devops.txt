@@ -10,3 +10,6 @@ crio
 rkt
 maven
 sonarqube
+bamboo
+circleci
+travisci
