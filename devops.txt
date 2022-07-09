@@ -1,0 +1,6 @@
+Linux and shell
+git and github
+docker
+kubernetes
+ansible
+terraform
