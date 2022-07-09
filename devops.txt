@@ -24,3 +24,7 @@ AWS
 GCP
 Azure
 DigitalOcean
+Kubernetes
+Openshift
+Mesos
+Docker Swarm
