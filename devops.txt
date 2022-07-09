@@ -4,3 +4,9 @@ docker
 kubernetes
 ansible
 terraform
+prometheus
+grafana
+crio
+rkt
+maven
+sonarqube
