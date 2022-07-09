@@ -13,3 +13,8 @@ sonarqube
 bamboo
 circleci
 travisci
+
+ansible 
+chef
+puppet
+saltstack
